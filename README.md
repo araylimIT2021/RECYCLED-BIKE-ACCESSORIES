@@ -1,5 +1,19 @@
 # RECYCLED-BIKE-ACCESSORIES
+So, Maker Academy was a bit of a game-changer for me. Picture this: an environment where you can let your creative juices flow, solve hands-on problems, and generally just geek out about cool projects.
+
+One of the projects that really stood out was all about sustainability. We were on a mission to create bike accessories from stuff that had seen better days, you know, the whole "reduce, reuse, recycle" deal. It was pretty awesome!
+
+Now, the magic happened when we rigged up an Arduino Mega to our bikes. It basically detected how fast our wheels were spinning and synced the music to it. Faster wheel spin, faster tunes – you get the idea. It was a tech-savvy way to make biking even more fun while being eco-friendly.
 ![0X5A3125](https://github.com/araylimIT2021/RECYCLED-BIKE-ACCESSORIES/assets/128516749/d109206e-7dd5-4968-bde5-fab00985e1be)
+
+But here's the kicker: we had just five days to pull this off! Talk about a challenge. It was a crash course in teamwork, adaptability, and thinking on our feet. I also got to dust off my skills in Arduino, soldering, and laser cutting, especially with wood.
+
+All in all, my time at Maker Academy was a blast. I left with sharper skills, a knack for collaboration, and a passion for creative, sustainable solutions. At the bottom I shared some images of our project.
+
+Some links: https://vilniustech.lt/about-university/news/how-to-create-an-innovative-project-from-used-electronic-waste/73472?nid=361519
+https://www.facebook.com/VilniusTechLF/
+
+
 ![0X5A5031](https://github.com/araylimIT2021/RECYCLED-BIKE-ACCESSORIES/assets/128516749/a199d306-6ead-4906-a6d6-6406e7d8ae58)
 ![0X5A5029](https://github.com/araylimIT2021/RECYCLED-BIKE-ACCESSORIES/assets/128516749/e2ac94c4-2429-4a13-8c9b-0a5d1c003b94)
 ![0X5A4998](https://github.com/araylimIT2021/RECYCLED-BIKE-ACCESSORIES/assets/128516749/4be5afa1-515f-49f5-aa7f-44fc8a4f12b8)
