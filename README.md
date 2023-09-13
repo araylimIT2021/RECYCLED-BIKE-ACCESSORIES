@@ -10,8 +10,8 @@ But here's the kicker: we had just five days to pull this off! Talk about a chal
 
 All in all, my time at Maker Academy was a blast. I left with sharper skills, a knack for collaboration, and a passion for creative, sustainable solutions. At the bottom I shared some images of our project.
 
-Our project presentation can be found here: https://drive.google.com/file/d/19I6mLSrO9VzmyUG1CUqMT7Z-feK0-kaN/view?usp=sharing
-Some links: https://vilniustech.lt/about-university/news/how-to-create-an-innovative-project-from-used-electronic-waste/73472?nid=361519
+~Our project presentation can be found here: https://drive.google.com/file/d/19I6mLSrO9VzmyUG1CUqMT7Z-feK0-kaN/view?usp=sharing
+~Some links: https://vilniustech.lt/about-university/news/how-to-create-an-innovative-project-from-used-electronic-waste/73472?nid=361519
 https://www.facebook.com/VilniusTechLF/
 
 
