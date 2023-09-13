@@ -31,5 +31,6 @@ All in all, my time at Maker Academy was a blast. I left with sharper skills, a 
 
 
 
-###### Certification
-![photo_2023-09-13_19-54-39](https://github.com/araylimIT2021/RECYCLED-BIKE-ACCESSORIES/assets/128516749/93f47bbf-2911-48f4-bbed-c71119f6053e)
+#### Certification
+
+![photo_2023-09-13_19-57-44](https://github.com/araylimIT2021/RECYCLED-BIKE-ACCESSORIES/assets/128516749/e637c8c0-a9fa-4f7d-88ca-b19a8b20c083)
